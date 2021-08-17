@@ -1,0 +1,28 @@
+{
+  "name": "use-longpolling",
+  "version": "1.0.0",
+  "description": "react longpolling hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingchaoyan1983/use-longpolling.git"
+  },
+  "keywords": [
+    "React",
+    "Hook",
+    "longpolling"
+  ],
+  "author": "dingchao <270422767@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dingchaoyan1983/use-longpolling/issues"
+  },
+  "homepage": "https://github.com/dingchaoyan1983/use-longpolling#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2"
+  }
+}
